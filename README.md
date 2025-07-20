@@ -6,7 +6,7 @@
 
 # 🧠 RohitOS v0.1 — A Minimal Custom Operating System
 
-> A fully handcrafted operating system from scratch in **C + Assembly**, booting with a custom bootloader, entering protected mode, and running a feature-rich CLI.
+> A fully handcrafted operating system from scratch in **C + Assembly**, booting with a custom bootloader, entering protected mode, and running a feature-rich CLI
 
 ![Build with love](https://img.shields.io/badge/Built%20with-%E2%9D%A4-red?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Written%20In-C%20%2B%20NASM-blue?style=for-the-badge)
